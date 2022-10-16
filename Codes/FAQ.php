@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+            <meta charset="utf-8">
+            <title>FAQ</title>
+            <link rel="stylesheet" href="FAQ.css">
+    </head>
+    
+    <body>
+        <div class="banner">
+            
+            <div class="navbar">
+                
+                <img src="Logo.png" class="logo" onclick="document.location='Homepage.php'">        
+                <ul>
+                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Product</a></li>
+                    <li><a href="#">Cart</a></li>
+                </ul>
+            </div>
+			
+			<div class="title">
+				<h1>FAQ</h1>
+			</div>
+			<!----------End of Title---------->
+			
+			<div class="FAQ">
+				<div class="question">
+					<h2>What is Food2Go Online Grocery Store?</h2>
+				</div>
+				<div class="answer">
+					<p>Food2Go Online Grocery Store is the exciting new service from Food2Go. This service allows you to order a wide range of products from the comfort of your own home, and have them delivered
+						directly to your door at a time to suit you or you can choose to collect it from the store of your choice. </br>
+						We offer you low prices like in store and many promotions that are both like in-store as well as available online only so that the major benefits of shopping 
+						in Food2Go are available to everyone with an access to the Internet.</p>
+				</div>	
+			
+				<br>
+				
+				<div class="question">
+					<h2>Do I need to register and why?</h2>
+				</div>
+				<div class="answer">
+					<p>You don’t have to register if you’re just browsing our website, but if you want to shop with us you will need to register. 
+						It’s very important to register with us to make sure we deliver to your area. It also allows us to show you the right products and delivery information.</p>
+				</div>	
+				
+				<br>
+				
+				<div class="question">
+					<h2>How do I find products?</h2>
+				</div>	
+				<div class="answer">
+					<p>There are many ways to find the products that you want to buy:</p>
+					<ul>
+						<li><p>Browse the aisles by clicking on the category list e.g. baby, grocery. You can then filter down to a smaller category using the filters at the top of the page.</p></li>
+						<li><p>Search for products using the search box (the list will be alphabetically sorted).</p></li>
+						<li><p>Use the Promotions list. This shows a list of products that are on promotion. You can filter this to a shorter list using the departments at the top of the page.</p></li>
+					</ul>
+				</div>	
+				
+				<br>
+				
+				<div class="question">
+					<h2>Do you charge different prices online to the prices in store?</h2>
+				</div>
+				<div class="answer">
+					<p>The prices you will pay online are the same as in the store on the day you checkout. This includes promotions. 
+						The prices that are displayed on the website are the same prices you will see in our stores. 
+						This excludes the Exclusive Online Only price, promotion, and product range whereby these are only available on the online shop.</p>
+				</div>	
+
+				
+				<br>
+				
+				<div class="question">
+					<h2>How can I pay for my shopping?</h2>
+				</div>
+				<div class="answer">
+					<p>You can pay at the door by card or Touch ‘n Go e-wallet. In this case you will not be charged for your shopping until after it has been delivered to you.
+						You can also pay online by card. In this case, a holding amount is made after picking but the payment will only be done after your shopping has been delivered to you. 
+						Unfortunately we will not accept the cash as payment for your shopping. This is because our Customer Delivery Assistants cannot carry cash with them due to safety reasons.</p>
+				</div>	
+				
+				<br><br><br><br><br><br>
+
+			</div>
+			<!----------End of FAQ---------->
+            
+        </div>	
+    </body>
+
+</html>
