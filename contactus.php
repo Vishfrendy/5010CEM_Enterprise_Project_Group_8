@@ -73,7 +73,7 @@ if(isset($_SESSION['user_id'])){
         <div class="phone details">
           <i class="fas fa-phone-alt"></i>
           <div class="topic">Phone</div>
-          <div class="text-one">(016) 533 -333</div>
+          <div class="text-one">(010) 777 - 5031</div>
         </div>
         <div class="email details">
           <i class="fas fa-envelope"></i>
@@ -98,7 +98,8 @@ if(isset($_SESSION['user_id'])){
           <input type="text" id="message" name="message" placeholder="Enter your message">
         </div>
         <div class="button">
-          <input type="submit" name="submit" value="Send Now" >
+          <input type="submit" name="submit" value="Send Now" > <br>
+          <a href="https://wa.link/1bam3x"><div class="whatbtn">Click me to Whatsapp Us</div></i></a>
         </div>
       </form>
     </div>
